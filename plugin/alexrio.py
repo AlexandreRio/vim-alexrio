@@ -9,7 +9,7 @@ import vim
 import webbrowser
 
 
-API_URL = "http://0.0.0.0:4000"
+API_URL = "http://alexrio.fr"
 
 def bwrite(s):
   b = vim.current.buffer
